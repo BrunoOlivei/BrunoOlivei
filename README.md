@@ -15,3 +15,5 @@ I'm currently working on implementation of a churn rate model and looking to col
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BrunoOlivei&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![status](https://badge.stateful.com/BrunoOlivei/status.svg)](Status for @BrunoOlivei)
