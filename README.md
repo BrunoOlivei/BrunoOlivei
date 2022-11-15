@@ -14,6 +14,6 @@ I'm currently working on implementation of a churn rate model and looking to col
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOlivei&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BrunoOlivei&icon=0&color=0)](https://visitcount.itsvg.in) [![status](https://badge.stateful.com/BrunoOlivei/status.svg)](Status for @BrunoOlivei) [![status](https://badge.stateful.com/BrunoOlivei/dnd.svg)](DnD for @BrunoOlivei)
+[![](https://visitcount.itsvg.in/api?id=BrunoOlivei&icon=0&color=0)](https://visitcount.itsvg.in) [![](https://badge.stateful.com/BrunoOlivei/status.svg)]() [![](https://badge.stateful.com/BrunoOlivei/dnd.svg)]()
 
 
