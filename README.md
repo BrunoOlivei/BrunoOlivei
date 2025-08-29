@@ -8,7 +8,11 @@ Crio pipelines **ETL/ELT end-to-end** no Azure Data Factory + Databricks, estrut
 - 🧱 Stack: Databricks, PySpark/SQL, Delta Lake, ADF, Power BI, GitHub Actions, Docker, Airflow (básico).
 - 📍 Brasil · 🌐 PT/EN · 💼 Aberto a remoto/híbrido.
 
-[LinkedIn](https://www.linkedin.com/in/BrunoOlivei) • [Email](brunoolivei@protonmail.com) • [📄 Currículo (PDF)](./Currículo_Bruno_Oliveira.pdf) • [📥 Download Currículo (PDF)](https://github.com/BrunoOlivei/BrunoOlivei/releases/latest/download/Curriculo.Bruno.Oliveira.pdf)
+
+**📄 Currículo:**  
+- 👀 [Visualizar no GitHub (PDF, modo seguro)](https://github.com/BrunoOlivei/BrunoOlivei/blob/main/Curr%C3%ADculo_Bruno_Oliveira.pdf)
+- ⬇️ [Baixar a versão mais recente (Release)](https://github.com/BrunoOlivei/BrunoOlivei/releases/latest/download/Curriculo.Bruno.Oliveira.pdf)  
+[LinkedIn](https://www.linkedin.com/in/BrunoOlivei)
 
 ---
 
@@ -39,4 +43,5 @@ Crio pipelines **ETL/ELT end-to-end** no Azure Data Factory + Databricks, estrut
 
 ---
 ## Contato
+- 📧 [Email](brunoolivei@protonmail.com)
 - 💬 Abra uma *issue* em qualquer repo, ou fale pelo [LinkedIn](https://www.linkedin.com/in/BrunoOlivei).
