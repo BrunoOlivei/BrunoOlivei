@@ -7,7 +7,7 @@ Crio pipelines **robustos e auditáveis** em Azure (Data Factory + Databricks + 
 - 🎯 Interesses: Lakehouse, Orquestração (ADF/Airflow), PySpark, Data Modeling, RAG para dados tabulares, custo/finops em Spark.
 - 📍 Brasil · 🌐 PT/EN · 💼 Aberto a remoto/híbrido.
 
-[LinkedIn](https://www.linkedin.com/in/BrunoOlivei) • [Email](mailto:seuemail@exemplo.com) • [CV (PDF)](link-para-seu-cv.pdf)
+[LinkedIn](https://www.linkedin.com/in/BrunoOlivei) • [Email](brunoolivei@protonmail.com) • [CV (PDF)](link-para-seu-cv.pdf)
 
 ---
 
@@ -39,5 +39,3 @@ Crio pipelines **robustos e auditáveis** em Azure (Data Factory + Databricks + 
 ## 📚 Conteúdo e Notas
 - Cheatsheets de PySpark/ADF, padrões de nomenclatura, templates de README.
 - Estudos: modelagem de dados e particionamento para custos em Spark.
-
-> Menos “cards de estatística”; mais **conteúdo verificável e replicável**. :contentReference[oaicite:5]{index=5}
