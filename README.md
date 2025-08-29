@@ -7,7 +7,7 @@ Crio pipelines **robustos e auditáveis** em Azure (Data Factory + Databricks + 
 - 🎯 Interesses: Lakehouse, Orquestração (ADF/Airflow), PySpark, Data Modeling, RAG para dados tabulares, custo/finops em Spark.
 - 📍 Brasil · 🌐 PT/EN · 💼 Aberto a remoto/híbrido.
 
-[LinkedIn](https://www.linkedin.com/in/BrunoOlivei) • [Email](brunoolivei@protonmail.com) • [📄 Currículo (PDF)](./Currículo_Bruno_Oliveira.pdf) • [📥 Download Currículo (PDF)](https://github.com/BrunoOlivei/BrunoOlivei/releases/download/latest/Curriculo.Bruno.Oliveira.pdf)
+[LinkedIn](https://www.linkedin.com/in/BrunoOlivei) • [Email](brunoolivei@protonmail.com) • [📄 Currículo (PDF)](./Currículo_Bruno_Oliveira.pdf) • [📥 Download Currículo (PDF)](https://github.com/BrunoOlivei/BrunoOlivei/releases/latest/download/Curriculo.Bruno.Oliveira.pdf)
 
 ---
 
