@@ -1,10 +1,11 @@
 <!-- Hero curto, claro e orientado a valor -->
 # Bruno Oliveira — Data Engineer (Azure • Databricks • Spark)
 
-Crio pipelines **robustos e auditáveis** em Azure (Data Factory + Databricks + Delta Lake), do **ingest** ao **serving**, com foco em **qualidade de dados**, **observabilidade** e **custo**.
+Crio pipelines **ETL/ELT end-to-end** no Azure Data Factory + Databricks, estruturando **Lakehouse (Bronze/Silver/Gold)** com governança, qualidade e auditoria — sempre orientado a impacto de negócio.
 
-- 🔭 Atual: automatizando ingestões em lote/stream para data lakehouse (Unity Catalog), versionando esquemas e PR-based deploy.
+- 🔭 Atual: automatizando ingestões em lote/stream para data lakehouse (Unity Catalog), versionando esquemas e PR-based deploy; automação de cálculos críticos (remuneração, cancelamentos, conciliações) em PySpark/SQL; monitoração e qualidade para evitar recorrência de erros.
 - 🎯 Interesses: Lakehouse, Orquestração (ADF/Airflow), PySpark, Data Modeling, RAG para dados tabulares, custo/finops em Spark.
+- 🧱 Stack: Databricks, PySpark/SQL, Delta Lake, ADF, Power BI, GitHub Actions, Docker, Airflow (básico).
 - 📍 Brasil · 🌐 PT/EN · 💼 Aberto a remoto/híbrido.
 
 [LinkedIn](https://www.linkedin.com/in/BrunoOlivei) • [Email](brunoolivei@protonmail.com) • [📄 Currículo (PDF)](./Currículo_Bruno_Oliveira.pdf) • [📥 Download Currículo (PDF)](https://github.com/BrunoOlivei/BrunoOlivei/releases/latest/download/Curriculo.Bruno.Oliveira.pdf)
@@ -12,8 +13,6 @@ Crio pipelines **robustos e auditáveis** em Azure (Data Factory + Databricks + 
 ---
 
 ## ⚡ Projetos em Destaque
-> Cases end-to-end com README completo, diagrama e “como reproduzir”.
-
 - **Lakehouse Seguros (Demo com dados sintéticos)** — *ADF + Databricks + Delta + Unity Catalog*  
   Ingestão Bronze → curadoria Silver → métricas Gold; particionamento, schema evolution, SCD, e checkpoints de qualidade.  
   `azure-data-factory` `databricks` `pyspark` `delta-lake` `unity-catalog`
@@ -23,8 +22,6 @@ Crio pipelines **robustos e auditáveis** em Azure (Data Factory + Databricks + 
 
 - **Churn Modeling (ML Ops leve)** — *feature store simplificada + tracking*  
   Pipeline de features em Spark, treino com MLflow e serving via FastAPI.
-
-> Dica: fixe (Pin) de 4 a 6 repositórios como estes para contar sua história. :contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -39,3 +36,7 @@ Crio pipelines **robustos e auditáveis** em Azure (Data Factory + Databricks + 
 ## 📚 Conteúdo e Notas
 - Cheatsheets de PySpark/ADF, padrões de nomenclatura, templates de README.
 - Estudos: modelagem de dados e particionamento para custos em Spark.
+
+---
+## Contato
+- 💬 Abra uma *issue* em qualquer repo, ou fale pelo [LinkedIn](https://www.linkedin.com/in/BrunoOlivei).
