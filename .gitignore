@@ -1,5 +1,6 @@
 *.docx
 *.xlsx
+*.csv
 *Profile Linkedin.pdf
 /certificados
 /livros_relatorios
