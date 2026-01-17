@@ -10,8 +10,9 @@ Crio pipelines **ETL/ELT end-to-end** no Azure Data Factory + Databricks, estrut
 
 
 **📄 Currículo:**  
-- 👀 [Visualizar no GitHub (PDF, modo seguro)](https://github.com/BrunoOlivei/BrunoOlivei/blob/main/Curr%C3%ADculo_Bruno_Oliveira.pdf)
-- ⬇️ [Baixar a versão mais recente (Release)](https://github.com/BrunoOlivei/BrunoOlivei/releases/latest/download/Curriculo.Bruno.Oliveira.pdf)  
+- 👀 [Visualizar no GitHub (PDF, modo seguro)](https://github.com/BrunoOlivei/BrunoOlivei/blob/main/curriculos/Curr%C3%ADculo_Bruno_Oliveira.pdf)
+- 👀[Visualizar descrição de todas as minhas atribuições e conquistas detalhadas](https://github.com/BrunoOlivei/BrunoOlivei/blob/main/curriculos/experiencias.md)
+- ⬇️ [Baixar a versão mais recente (Release)](https://github.com/BrunoOlivei/BrunoOlivei/releases/latest/download/curriculos/Curriculo.Bruno.Oliveira.pdf)  
 - [LinkedIn](https://www.linkedin.com/in/BrunoOlivei)
 
 ---
