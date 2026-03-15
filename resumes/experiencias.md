@@ -7,7 +7,7 @@
 
 **Descrição das atribuições, atividades e projetos realizados:**
 
-Atualmente atuo como Engenheiro de Dados Sênior na NAVA, alocado em um cliente do setor de seguros e previdência privada.
+Atualmente atuo como Engenheiro de Dados na NAVA, alocado em um cliente do setor de seguros e previdência privada.
 
 Minha principal responsabilidade é desenvolver e manter pipelines de dados, garantindo a integração e transformação de dados provenientes de diversas fontes, como bancos de dados relacionais, APIs e arquivos CSV. Utilizo tecnologias como Python, Apache Spark e Azure DataFactory, para orquestração e processamento de dados em larga escala. Além disso, sou responsável por desenvolver e otimizar processos de conciliação de dados de operações.
 
@@ -15,7 +15,7 @@ Minha principal responsabilidade é desenvolver e manter pipelines de dados, gar
 
 Trabalhando em conjunto com time de negócios para, entender as necessidades e regras de negócio que envolvem o cancelamento de apólices de seguros de diversos ramos e as fórmulas de cálculo de devolução de prêmio, baseadas em características específicas da combinação de motivo de cancelamento, produto, ramo e outros dados, desenvolvi de um sistema, dentro do Databricks, baseado no paradigma de programação orientada a objetos, criando classes responsáveis por cada etapa de um processo de cálculo de devolução de prêmio e conciliação com o valor calculado pelo sistema.
 
-Criando a classe que consulta os dados de movimentações de apólices de diversos produtos de seguros (emissão, endossos, renovações, cancelamentos) e dados de parcelas pagas e a pagar para cada família de produto. Realizando a ingestão de dados de arquivos excel e csv contendo características que determinam as regras de cálculo de devolução de prêmio para cada combinação de produto x ramo x código de moyivo de cancelamento, além de outras características como tipo de tabela com percentuais de retenção de prêmio utilizar, percentuais de retenção de prêmio baseados no período de cobertura, etc.
+Criando a classe que consulta os dados de movimentações de apólices de diversos produtos de seguros (emissão, endossos, renovações, cancelamentos) e dados de parcelas pagas e a pagar para cada família de produto. Realizando a ingestão de dados de arquivos Excel e CSV contendo características que determinam as regras de cálculo de devolução de prêmio para cada combinação de produto x ramo x código de motivo de cancelamento, além de outras características como tipo de tabela com percentuais de retenção de prêmio utilizar, percentuais de retenção de prêmio baseados no período de cobertura, etc.
 
 Consolidação de todas as informações, bases de dados consultadas e ingestionadas. Métodos que criam colunas novas, baseada em cálculos, como quantidade de prazo de dias vigentes entre outras 15 colunas que são utilizadas nas regras de cálculo. Classe para cada família de produto contendo suas regras de cálculo, baseando-se em todas as informações consolidadas nas etapas anteriores e nos requisitos de negócio. Cálculo de pró-labore e comissão baseado no produto. Viewes baseada nas necessidades de cada área de negócio.
 
@@ -23,7 +23,7 @@ Esse projeto identificou erros no cálculo realizado pelo sistema  gerando um pr
 
 Também criei pipelines de conciliação entre apólices que foram canceladas e se as emissões das respectivas apólices foram criadas com datas, valores, e códigos corretos, com envio de e-mail automático para time de negócios alertando sobre possíveis inconsistências. Com esse projeto o time de operações de seguros conseguiu identificar falhas sistêmicas e solicitar a correção aos times de tecnologia.
 
-Realizei ingestões de dados, de arquivos de diversos formatos, utilizando a arquitetura Medalhão (Medallion), normalizando nomes de colunas, tipagem de dados, e através da condução de reuniões com times de cada domínio de area, criando a dicionarização das tabelas e de cada coluna.
+Realizei ingestões de dados, de arquivos de diversos formatos, utilizando a arquitetura Medalhão (Medallion), normalizando nomes de colunas, tipagem de dados, e através da condução de reuniões com times de cada domínio de área, criando a dicionarização das tabelas e de cada coluna.
 
 **Competências**
 
@@ -39,8 +39,7 @@ Realizei ingestões de dados, de arquivos de diversos formatos, utilizando a arq
 * Data Lakehouse
 * ETL (Extração, transformação e carregamento)
 
-
-
+---
 ## Desenvolvedor BackEnd
 
 **Empresa:** DMX Desing
@@ -80,8 +79,7 @@ Estruturei o projeto para utilização TypeScript, NestJS, Prisma, Jest, Postgre
 * AWS SQS
 * AWS RDS
 
- 
-
+---
 ## Desenvolvedor Pleno
 
 **Empresa:** Qyon
@@ -139,6 +137,7 @@ Com crescimento da empresa, migramos para ferramenta Databricks, utilizando airf
 * Testes
 * Análise de dados nos negócios
 
+---
 ## Administrador de Clínicas e Consultórios
 
 **Empresa:** Consultório Dra. Giovana de Moraes
@@ -164,6 +163,7 @@ Com desenho de processos de atendimento, trabalho de prospecção de clientes al
 * Resolução de problemas
 * Competências interpessoais
 
+---
 ## Analista de Negócios e Risco
 
 **Empresa:** Atlântica Importação e Exportação
